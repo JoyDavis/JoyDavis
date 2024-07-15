@@ -3,4 +3,4 @@ Hey! I'm Joy Davis, a senior at Texas State University, pursuing my bachelor's d
 
 Throughout my academic journey, I have developed proficiency in SQL, Python, Excel, and Tableau. These tools have allowed me to analyze complex datasets, uncover meaningful insights, and present findings in a clear and impactful manner.
 
-I enjoy the challenge of diving deep into data to identify trends, solve problems, and support strategic decision-making. The ability to see beyond the numbers and understand the story they tell is what excites me the most about data analytics. Every dataset is a new puzzle to solve, and each analysis helps to reveal a piece of the larger picture. 🔍
+🔍 I enjoy the challenge of diving deep into data to identify trends, solve problems, and support strategic decision-making. The ability to see beyond the numbers and understand the story they tell is what excites me the most about data analytics. Every dataset is a new puzzle to solve, and each analysis helps to reveal a piece of the larger picture.
