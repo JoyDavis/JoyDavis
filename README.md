@@ -1,6 +1,6 @@
 ## 👋 Hey! I'm Joy Davis
 
-### 💼 Data Analyst:
+### 👩🏽‍💻 Data Analyst:
 - I blend my technical skills with a passion for problem-solving, constantly seeking opportunities to learn and grow.
   
 ### 🎓 Proficiencies:
