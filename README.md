@@ -1,6 +1,17 @@
-# About Me 🌟
-Hey! I'm Joy Davis, a senior at Texas State University, pursuing my bachelor's degree in Computer Science with a minor in Business Administration. I am a data analyst, where I blend my technical skills with my passion for problem-solving. I am constantly seeking opportunities to learn and grow, and I am eager to apply my knowledge in a professional setting.
+## 👋 Hey! I'm Joy Davis
 
-Throughout my academic journey, I have developed proficiency in SQL, Excel, and Tableau. These tools have allowed me to analyze complex datasets, uncover meaningful insights, and present findings in a clear and impactful manner. 📊
+### 💼 Data Analyst:
+- I blend my technical skills with a passion for problem-solving, constantly seeking opportunities to learn and grow.
+  
+### 🎓 Proficiencies:
+  -  SQL: Analyzing complex datasets and optimizing queries.
+  - Excel: Building models, performing data cleaning, and visualizing data.
+  - Tableau: Creating interactive dashboards and presenting findings in a clear, impactful manner.
 
-What drew me to data analytics was my innate curiosity, my love for continuous learning, and the thrill of tackling new challenges daily. I enjoy the challenge of diving deep into data to identify trends, solve problems, and support strategic decision-making. The ability to see beyond the numbers and understand the story they tell is what excites me the most about data analytics. Every dataset is a new puzzle to solve, and each analysis helps to reveal a piece of the larger picture. 🔍
+### 📊 My journey in data analytics is driven by:
+  - Innate curiosity and love for continuous learning.
+  - Thrill of tackling new challenges daily.
+  - Passion for uncovering trends and supporting strategic decision-making.
+### 🔍 What excites me the most about data analytics:
+  - Seeing beyond the numbers and understanding the story they tell.
+  - Solving new puzzles with each dataset to reveal a piece of the larger picture.
